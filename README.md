@@ -4,6 +4,10 @@ En este repositorio de github se encuentran los recursos requeridos para el tall
 
 https://drive.google.com/file/d/1_d3nAWlWOxvmwiO18L1nLWgdOghPqab5/view
 
-Deben también subir esta base de datos a google drive (sin descomprimirla) y preferiblemente en la carpeta Fault_Detection. Para el taller utilizaremos google colab, pueden encontrar un taller introductorio a la herramienta en el siguiente link:
+Deben también subir esta base de datos a google drive (sin descomprimirla) y preferiblemente en la carpeta Fault_Detection. Para el taller utilizaremos google colab, pueden encontrar un taller introductorio a la herramienta en el siguiente link: 
 
 https://colab.research.google.com/?utm_source=scs-index#scrollTo=Nma_JWh-W-IF
+
+A su vez, para realizar los talleres de islanding se requiere que esta base de datos este tamibén subida en el drive preferiblemente dentro de la carpeta Islanding. 
+
+https://drive.google.com/file/d/1hvH61oqinwF7LaUB36UXIVUHmQiXFfZP/view?usp=sharing
